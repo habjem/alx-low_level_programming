@@ -7,5 +7,5 @@ int print_alphabet()
 		putchar (x);
 		}
 	putchar('\n');
-	return (x);
+	return (0);
 	}
